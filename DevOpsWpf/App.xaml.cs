@@ -11,9 +11,8 @@ namespace DevOpsWpf
 
         public App()
         {
-            Test = 1;
+            //Test = 1;
         }
-
 
         //
         //int value = Int32.Parse("Test");
