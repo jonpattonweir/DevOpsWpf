@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows;
+﻿using System.Windows;
 
 namespace DevOpsWpf
 {
@@ -16,7 +10,5 @@ namespace DevOpsWpf
         //int value = Int32.Parse("Test");
 
         //this is a second failure
-    
-        //
     }
 }
