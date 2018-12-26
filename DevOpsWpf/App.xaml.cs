@@ -14,9 +14,7 @@ namespace DevOpsWpf
             //Test = 1;
         }
 
-        //
         //int value = Int32.Parse("Test");
-
         //this is a second failure
 
     }
